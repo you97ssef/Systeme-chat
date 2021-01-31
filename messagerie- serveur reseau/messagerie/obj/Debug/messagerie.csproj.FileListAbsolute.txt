@@ -1,0 +1,17 @@
+C:\Users\Youssef\Desktop\messagerie\messagerie\bin\Debug\messagerie.exe.config
+C:\Users\Youssef\Desktop\messagerie\messagerie\bin\Debug\messagerie.exe
+C:\Users\Youssef\Desktop\messagerie\messagerie\bin\Debug\messagerie.pdb
+C:\Users\Youssef\Desktop\messagerie\messagerie\obj\Debug\messagerie.csprojAssemblyReference.cache
+C:\Users\Youssef\Desktop\messagerie\messagerie\obj\Debug\messagerie.Properties.Resources.resources
+C:\Users\Youssef\Desktop\messagerie\messagerie\obj\Debug\messagerie.csproj.GenerateResource.cache
+C:\Users\Youssef\Desktop\messagerie\messagerie\obj\Debug\messagerie.exe
+C:\Users\Youssef\Desktop\messagerie\messagerie\obj\Debug\messagerie.pdb
+C:\Users\Youssef\Desktop\messagerie\messagerie\obj\Debug\messagerie.CreationCompte.resources
+C:\Users\Youssef\Desktop\messagerie\messagerie\obj\Debug\messagerie.Connection.resources
+C:\Users\Youssef\Desktop\messagerie\messagerie\obj\Debug\messagerie.Interface.resources
+C:\Users\Youssef\Desktop\messagerie\messagerie\bin\Debug\MySql.Data.dll
+C:\Users\Youssef\Desktop\messagerie\messagerie\bin\Debug\Google.Protobuf.dll
+C:\Users\Youssef\Desktop\messagerie\messagerie\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Youssef\Desktop\messagerie\messagerie\bin\Debug\Renci.SshNet.dll
+C:\Users\Youssef\Desktop\messagerie\messagerie\bin\Debug\MySql.Data.xml
+C:\Users\Youssef\Desktop\messagerie\messagerie\obj\Debug\messagerie.csproj.CopyComplete

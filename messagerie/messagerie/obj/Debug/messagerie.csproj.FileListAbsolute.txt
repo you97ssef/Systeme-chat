@@ -1,0 +1,22 @@
+C:\Users\Youssef\Desktop\messagerie\messagerie\bin\Debug\messagerie.exe.config
+C:\Users\Youssef\Desktop\messagerie\messagerie\bin\Debug\messagerie.exe
+C:\Users\Youssef\Desktop\messagerie\messagerie\bin\Debug\messagerie.pdb
+C:\Users\Youssef\Desktop\messagerie\messagerie\obj\Debug\messagerie.csprojAssemblyReference.cache
+C:\Users\Youssef\Desktop\messagerie\messagerie\obj\Debug\messagerie.Properties.Resources.resources
+C:\Users\Youssef\Desktop\messagerie\messagerie\obj\Debug\messagerie.csproj.GenerateResource.cache
+C:\Users\Youssef\Desktop\messagerie\messagerie\obj\Debug\messagerie.exe
+C:\Users\Youssef\Desktop\messagerie\messagerie\obj\Debug\messagerie.pdb
+C:\Users\Youssef\Desktop\messagerie\messagerie\obj\Debug\messagerie.CreationCompte.resources
+C:\Users\Youssef\Desktop\messagerie\messagerie\obj\Debug\messagerie.Connection.resources
+C:\Users\Youssef\Desktop\messagerie\messagerie\obj\Debug\messagerie.Interface.resources
+C:\Users\you97\Desktop\Projets\Systeme chat\messagerie\messagerie\bin\Debug\messagerie.exe.config
+C:\Users\you97\Desktop\Projets\Systeme chat\messagerie\messagerie\bin\Debug\messagerie.exe
+C:\Users\you97\Desktop\Projets\Systeme chat\messagerie\messagerie\bin\Debug\messagerie.pdb
+C:\Users\you97\Desktop\Projets\Systeme chat\messagerie\messagerie\obj\Debug\messagerie.csprojAssemblyReference.cache
+C:\Users\you97\Desktop\Projets\Systeme chat\messagerie\messagerie\obj\Debug\messagerie.CreationCompte.resources
+C:\Users\you97\Desktop\Projets\Systeme chat\messagerie\messagerie\obj\Debug\messagerie.Connection.resources
+C:\Users\you97\Desktop\Projets\Systeme chat\messagerie\messagerie\obj\Debug\messagerie.Interface.resources
+C:\Users\you97\Desktop\Projets\Systeme chat\messagerie\messagerie\obj\Debug\messagerie.Properties.Resources.resources
+C:\Users\you97\Desktop\Projets\Systeme chat\messagerie\messagerie\obj\Debug\messagerie.csproj.GenerateResource.cache
+C:\Users\you97\Desktop\Projets\Systeme chat\messagerie\messagerie\obj\Debug\messagerie.exe
+C:\Users\you97\Desktop\Projets\Systeme chat\messagerie\messagerie\obj\Debug\messagerie.pdb
